@@ -3,7 +3,10 @@
 import argparse
 
 def find_max_profit(prices):
-  pass
+    #recieve list of elements
+    #iterate through list from lowest to highest
+    #must buy before selling to return profit
+    #return the max profit that can be made
 
 
 if __name__ == '__main__':
